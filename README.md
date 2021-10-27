@@ -1,5 +1,4 @@
 # Seriel_Communications_Practise
-![GitHub Logo](/MIPS_processor_Yeet.png)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
